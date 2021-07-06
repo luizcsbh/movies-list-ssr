@@ -3,7 +3,7 @@
 ![stars](https://img.shields.io/github/stars/luizcsbh/movies-list-ssr)
 [![license](https://img.shields.io/github/license/luizcsbh/movies-list-ssr)](https://github.com/luizcsbh/movies-list-ssr/blob/main/LICENSE)
 ![code-size](https://img.shields.io/github/languages/code-size/luizcsbh/movies-list-ssr)
-[![react-tab](https://img.shields.io/github/deployments/luizcsbh/movies-list-ssr/react-tab)](https://github.com/luizcsbh/movies-list-ssr/deployments/activity_log?environment=react-tab)
+[![Production](https://img.shields.io/github/deployments/luizcsbh/movies-list-ssr/Production)](https://github.com/luizcsbh/movies-list-ssr/deployments/activity_log?environment=Production)
 [![commit activity](https://img.shields.io/github/commit-activity/m/luizcsbh/movies-list-ssr)](https://github.com/luizcsbh/movies-list-ssr/commits)
 [![last commit](https://img.shields.io/github/last-commit/luizcsbh/movies-list-ssr)](https://github.com/luizcsbh/movies-list-ssr/commits)
 [![CodeFactor](https://www.codefactor.io/repository/github/luizcsbh/movies-list-ssr/badge)](https://www.codefactor.io/repository/github/luizcsbh/movies-list-ssr)
