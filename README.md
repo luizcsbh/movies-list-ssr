@@ -27,7 +27,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Web application
 
-The access web appplication [Movie List SSR](https://movies-list-ssr.vercel.app/git).
+The access web appplication [Movie List SSR](https://movies-list-ssr.vercel.app).
 
 
 ## Learn More
